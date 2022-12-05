@@ -1,0 +1,7 @@
+C:\Users\ROG\Desktop\web2\web1\bin\Release\net6.0\publish\web1.exe
+C:\Users\ROG\Desktop\web2\web1\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\ROG\Desktop\web2\web1\bin\Release\net6.0\publish\appsettings.json
+C:\Users\ROG\Desktop\web2\web1\bin\Release\net6.0\publish\web1.dll
+C:\Users\ROG\Desktop\web2\web1\bin\Release\net6.0\publish\web1.deps.json
+C:\Users\ROG\Desktop\web2\web1\bin\Release\net6.0\publish\web1.runtimeconfig.json
+C:\Users\ROG\Desktop\web2\web1\bin\Release\net6.0\publish\web1.pdb

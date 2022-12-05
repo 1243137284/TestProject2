@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/e5939bc6-6b91-4be1-8cfe-f474d6f61e41/AppServices/subscriptions/e5939bc6-6b91-4be1-8cfe-f474d6f61e41/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/ganxiaotong202095104"
+}
